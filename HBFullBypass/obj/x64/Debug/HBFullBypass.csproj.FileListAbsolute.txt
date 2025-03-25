@@ -1,0 +1,9 @@
+C:\Users\Frey\source\repos\HBFullBypass\bin\x64\Debug\HBFullBypass.exe.config
+C:\Users\Frey\source\repos\HBFullBypass\bin\x64\Debug\HBFullBypass.exe
+C:\Users\Frey\source\repos\HBFullBypass\bin\x64\Debug\HBFullBypass.pdb
+C:\Users\Frey\source\repos\HBFullBypass\bin\x64\Debug\System.Management.Automation.dll
+C:\Users\Frey\source\repos\HBFullBypass\obj\x64\Debug\HBFullBypass.csproj.AssemblyReference.cache
+C:\Users\Frey\source\repos\HBFullBypass\obj\x64\Debug\HBFullBypass.csproj.CoreCompileInputs.cache
+C:\Users\Frey\source\repos\HBFullBypass\obj\x64\Debug\HBFullBy.8494C006.Up2Date
+C:\Users\Frey\source\repos\HBFullBypass\obj\x64\Debug\HBFullBypass.exe
+C:\Users\Frey\source\repos\HBFullBypass\obj\x64\Debug\HBFullBypass.pdb
