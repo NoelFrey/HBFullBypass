@@ -29,9 +29,12 @@ Tool performs two main actions:
 - Utilizes hardware breakpoints to intercept the AmsiScanBuffer function in amsi.dll.
 - Registers a Vectored Exception Handler to catch single-step exceptions triggered by the breakpoint.
 - Modifies the AMSI scan result to always return AMSI_RESULT_CLEAN (0), effectively bypassing AMSI detection for subsequent PowerShell commands and scripts.
+![image](https://github.com/user-attachments/assets/12625bad-cd97-4f5c-b81a-6eb4de912da8)
+
 
 ### 2. PowerShell Reverse Shell
 
 - Prompts for an attacker's IP address and port for webserver.
 - Downloads and executes a PowerShell reverse shell script (rev.ps1).
 - Grants a Full Language Mode PowerShell reverse shell, unrestricted by Constrained Language Mode (CLM). `$ExecutionContext.SessionState.LanguageMode`.
+![3](https://github.com/user-attachments/assets/a87ec80e-e514-4a83-a3fa-3085f0165757)
